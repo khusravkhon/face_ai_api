@@ -1,0 +1,2 @@
+SUPABASE_URL = 'https://euivpnoenvquaiivtwfq.supabase.co'
+SUPABASE_API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV1aXZwbm9lbnZxdWFpaXZ0d2ZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzU1Njc1MjgsImV4cCI6MjA1MTE0MzUyOH0.awjJiQk8naigwD5DUOv8ZFdDA_85H6aaobMhBuxEKEI'

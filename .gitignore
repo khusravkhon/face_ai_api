@@ -1,0 +1,44 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+*.egg-info/
+*.egg
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Docker-related files
+*.tar
+Dockerfile
+
+# Byte-compiled files
+*.so
+*.dll
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Generated files
+config.yaml
+config.json
