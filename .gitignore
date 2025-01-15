@@ -21,7 +21,6 @@ dist/
 
 # Docker-related files
 *.tar
-Dockerfile
 
 # Byte-compiled files
 *.so
