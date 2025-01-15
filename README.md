@@ -19,4 +19,4 @@ make run
 
 For more details about me and my other projects, please visit [my profile](https://khusravkhon.github.io/resume).
 
-Telegram on the web application [FACE_AI_ADMIN](https://admin-face-ia-five.vercel.app/). #FACE_AI_API
+Telegram on the web application [FACE_AI_ADMIN](https://admin-face-ia-five.vercel.app/).
